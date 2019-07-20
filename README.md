@@ -1,6 +1,6 @@
 # Irainian-Holiday-Crawler
 
-The Jupyter Notebook is the basic/dirty version of the code and is basically what I used to figure out how to get the date. If you want to use this however I would not suggest using the notebook. You can download the`holiday_crawler.py` file instead, place it next to your code and use it like this:
+You can download the`holiday_crawler.py` file, place it next to your code and use it like this:
 
 ```python
 from holiday_crawler import HolidayCrawler
@@ -25,3 +25,6 @@ https://calendarific.com/holidays/2019/IR
 The second version includes days of the week as well as dates. The first file, however, includes a couple of more dates in each year. 
 
 You can use whichever feels more credible to you. 
+
+
+The Jupyter Notebook is the dirty version of the code and is basically what I used to figure out how to get the date. If you want to use this I would not suggest using the notebook. 
