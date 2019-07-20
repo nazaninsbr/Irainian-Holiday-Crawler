@@ -28,4 +28,4 @@ You can use whichever feels more credible to you.
 
 ### Don't Use The Notebook
 
-The Jupyter Notebook is the dirty version of the code and is basically what I used to figure out how to get the date. If you want to use this I would not suggest using the notebook. You could however use it to see the output formats and ... .
+The Jupyter Notebook is the dirty version of the code and is basically what I used to figure out how to get the date. If you want to use this repository I would not suggest using the notebook. You could however use it to see the output formats and ... .
